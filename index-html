@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<Html>
+      <head>
+
+     <title>FRONT-PAGE</title>
+
+     <link rel="stylesheet" href="style.css">  
+     </head>
+
+<body>
+
+
+       <div class="container">
+
+<header>
+
+       <div class="logo"> 
+       <h2>Welcome To Our Camping</h2>
+
+   </div>
+
+   <nav>
+
+        <ul>
+            <li class="active"><a href="a">Home</a></li>
+
+            <li><a href="a">About Us</a></li>  
+
+            <li><a href="a">Serveices</a></li>
+
+            <li><a href="a">Products</a></li>
+
+            <li><a href="a">Contacts</a></li>
+
+       </ul>
+
+      </nav> 
+
+      </header>
+
+
+       <div class="text">
+       <h1>Are You Ready To Start Our Programing??</h1>
+    </div>
+
+            <div class="buttons">
+            <button class="btn btn-1"><a href="a">Explore More</a></button> 
+            <button class="btn btn-2"><a href="">Watch Videos</a></button>
+               </div>
+</div>
+
+
+
+</div>
+
+
+</body>
+
+</html>
